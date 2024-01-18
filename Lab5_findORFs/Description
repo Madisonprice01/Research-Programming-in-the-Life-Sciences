@@ -1,1 +1,1 @@
-findORFs.py imports the sequenceAnalysis module and finds open reading frames in an input genome given parameters of min and max size, start codons, and stop codons
+findORFs.py imports the sequenceAnalysis module and uses the OrfFinder class to find open reading frames in an input genome given parameters of min and max size, start codons, and stop codons
