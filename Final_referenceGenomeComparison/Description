@@ -1,1 +1,2 @@
-refComparer.py takes two human genome reference files as input and compares the CRISPR guides that can be used in both the old and new references, and outputs how many guides occur in the novel regions of the newer reference genome
+refComparer.py takes two human genome reference files as input and compares the CRISPR guides that can be used in both the old and new references, and outputs how many guides occur in the novel regions of the newer reference genome.
+Reference genomes GRCh38 (HG38 in the UCSC genome browser) and T2T-CHM13 (CHM13 in the UCSC genome browser) were used to test the program.
