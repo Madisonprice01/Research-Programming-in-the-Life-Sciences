@@ -1,0 +1,1 @@
+The protein parameters class takes in an amino acid sequence and outputs some of the protein's physical and chemical properties such as total molecular weight, molar and mass extinction coefficients, isoelectric point, and amino acid percent compositions
