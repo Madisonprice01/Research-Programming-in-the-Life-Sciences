@@ -1,0 +1,1 @@
+refComparer.py takes two human genome reference files as input and compares the CRISPR guides that can be used in both the old and new references, and outputs how many guides occur in the novel regions of the newer reference genome
