@@ -1,0 +1,1 @@
+findUniques.py uses the sequenceAnalysis module to find unique subsequences or "tags" for each of the mitochonrial tRNAs, given a FASTA file from standrad input, for applications of assessing mt.tRNA abundance
