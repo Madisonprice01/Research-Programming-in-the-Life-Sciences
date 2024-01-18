@@ -1,0 +1,2 @@
+genomeAnalyzer is a script that imports the seqAnalysis module containing the proteinParameters class, the nucleotideParameters class, and the FASTA reader class. 
+It can read from standard input or from a file and outputs genomic sequence statistics such as length in megabases, GC content, and provides a codon usage table
